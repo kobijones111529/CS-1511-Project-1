@@ -1,1 +1,2 @@
-# CS-1511-Project-1
+# CS 1511
+## Project 1
