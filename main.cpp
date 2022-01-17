@@ -37,6 +37,7 @@ int main() {
 	// Prompt user for page views
 	std::cout << "Page views: ";
 	std::cin >> pageViewsIn;
+	// Validate input
 	try {
 		int pageViewsSigned = std::stoi(pageViewsIn);
 		if (pageViewsSigned < 0) {
